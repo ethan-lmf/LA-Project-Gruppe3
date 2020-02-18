@@ -1,8 +1,8 @@
 ## Student Academic Performance Analysis
 
 Our group uses Students' Academic Performance Dataset to predict the performance of students and make relevant suggestions to students at a later stage.
-
-Demo the project on [Youtube](https://youtu.be/KBAVj2ubGRw)
+[Github](https://github.com/ethan-lmf/LA-Project-Gruppe3)
+Demo the project on [Youtube](https://youtu.be/D80cLI4ca-c)
 <br>
 
 
