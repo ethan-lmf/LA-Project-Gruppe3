@@ -2,7 +2,7 @@
 
 Our group uses Students' Academic Performance Dataset to predict the performance of students and make relevant suggestions to students at a later stage.
 
-Demo the project on [Youtube](https://youtu.be/HugeYnmyBH0)
+Demo the project on [Youtube](https://youtu.be/KBAVj2ubGRw)
 <br>
 
 
